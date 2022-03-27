@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 03a3eda1-e9b4-de4e-db28-637554351221
 resourcetype: Document
 title: nepal.pdf
 uid: b61ae4ca-9c42-ad74-7ca0-567bc6e57f0a

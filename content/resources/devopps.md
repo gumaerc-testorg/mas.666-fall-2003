@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 03a3eda1-e9b4-de4e-db28-637554351221
 resourcetype: Document
 title: devopps.pdf
 uid: c28738ac-7e6f-863a-bdf5-d8acbed195f0

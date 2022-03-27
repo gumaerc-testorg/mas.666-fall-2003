@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 03a3eda1-e9b4-de4e-db28-637554351221
 resourcetype: Document
 title: sari.pdf
 uid: 8f6831be-a345-1c02-7fb5-d1377f2c0d22

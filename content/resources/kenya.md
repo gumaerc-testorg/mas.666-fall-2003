@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 03a3eda1-e9b4-de4e-db28-637554351221
 resourcetype: Document
 title: kenya.pdf
 uid: 7d5526e0-3b4e-6eb9-a5f3-0144a947fd68
