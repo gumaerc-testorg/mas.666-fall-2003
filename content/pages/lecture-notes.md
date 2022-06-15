@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/intro))
+Introduction ({{% resource_link 6c8ad908-0c23-ae7e-fc74-66a113855978 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Introduction ([PDF]({{< baseurl >}}/resources/intro))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Brainstorming Development Opportunities ([PDF]({{< baseurl >}}/resources/devopps))
+Brainstorming Development Opportunities ({{% resource_link c28738ac-7e6f-863a-bdf5-d8acbed195f0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,11 +46,11 @@ Brainstorming Development Opportunities ([PDF]({{< baseurl >}}/resources/devopps
 3
 {{< tdclose >}}
 {{< tdopen >}}
-First Mile Solutions - Amir Hasson and Richard Fletcher ([PDF - 1.4 MB]({{< baseurl >}}/resources/fmsdeventre1))  
+First Mile Solutions - Amir Hasson and Richard Fletcher ({{% resource_link 12acb56b-7f20-2baa-f761-c7d5ee532b14 "PDF - 1.4 MB" %}})  
   
 Middle East Networks & Communications: "Pilot Projects for Deployment of Wireless IP Based System in Rural Areas of Jordan."  
   
-Wireless in Nepal - Holly Ladd and Dileep Agrawal ([PDF]({{< baseurl >}}/resources/nepal))  
+Wireless in Nepal - Holly Ladd and Dileep Agrawal ({{% resource_link b61ae4ca-9c42-ad74-7ca0-567bc6e57f0a "PDF" %}})  
   
 Healthnet in Kenya Case Study - Lishan Adam
 {{< tdclose >}}
@@ -60,7 +61,7 @@ Healthnet in Kenya Case Study - Lishan Adam
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Blue Energy Entry - Rolo Duartes, Mathias Craig, Ricardo Jimenez ([PDF]({{< baseurl >}}/resources/blue))
+Blue Energy Entry - Rolo Duartes, Mathias Craig, Ricardo Jimenez ({{% resource_link 4092ab9a-8ea6-dd2e-c691-41ce1f4040d0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,9 +70,9 @@ Blue Energy Entry - Rolo Duartes, Mathias Craig, Ricardo Jimenez ([PDF]({{< base
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Grameen Phone Case Study - Iqbal Quadir ([PDF]({{< baseurl >}}/resources/grameen))  
+Grameen Phone Case Study - Iqbal Quadir ({{% resource_link 59c459e0-8d4c-78cd-eac2-f5725a8ba541 "PDF" %}})  
   
-SARI Project Case Study - Colin Maclay ([PDF]({{< baseurl >}}/resources/sari))
+SARI Project Case Study - Colin Maclay ({{% resource_link 8f6831be-a345-1c02-7fb5-d1377f2c0d22 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +81,7 @@ SARI Project Case Study - Colin Maclay ([PDF]({{< baseurl >}}/resources/sari))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-SELCO Case Study - Harish Hande ([PDF - 2.7 MB]({{< baseurl >}}/resources/selcofinal))
+SELCO Case Study - Harish Hande ({{% resource_link 59fc951d-cb7b-4b19-5e2f-e614ddef0574 "PDF - 2.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

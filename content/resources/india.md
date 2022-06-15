@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/mas-666-developmental-entrepreneurship-fall-2003/f875c6775769ea0d91e19e61e5f83576_india.pdf
+file: /courses/mas-666-developmental-entrepreneurship-fall-2003/f875c6775769ea0d91e19e61e5f83576_india.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
