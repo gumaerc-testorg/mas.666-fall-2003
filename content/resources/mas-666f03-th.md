@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: The Earth floating in space with Africa visible.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: mas-666f03-th.jpg
 uid: b030f4e0-039f-4a32-49c4-06089325d254
 ---
 New image Upload
-

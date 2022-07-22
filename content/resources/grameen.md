@@ -5,6 +5,7 @@ file: /courses/mas-666-developmental-entrepreneurship-fall-2003/59c459e08d4c78cd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
