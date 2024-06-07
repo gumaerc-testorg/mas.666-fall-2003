@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/mas-666-developmental-entrepreneurship-fall-2003/6c8ad9080c23ae7efc7466a113855978_intro.pdf
+file_size: 125839
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
