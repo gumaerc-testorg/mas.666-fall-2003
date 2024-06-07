@@ -2,6 +2,7 @@
 content_type: resource
 description: Background and Potential Opportunities for SELCO
 file: /courses/mas-666-developmental-entrepreneurship-fall-2003/59fc951dcb7b4b195e2fe614ddef0574_SelcoFinal.pdf
+file_size: 2761032
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
