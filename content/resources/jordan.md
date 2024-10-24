@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/mas-666-developmental-entrepreneurship-fall-2003/a1d37ffa37f3c3e1afe78a5cf206041b_jordan.pdf
+file: /ol-ocw-studio-app/courses/mas-666-developmental-entrepreneurship-fall-2003/a1d37ffa37f3c3e1afe78a5cf206041b_jordan.pdf
 file_size: 174442
 file_type: application/pdf
 learning_resource_types:
