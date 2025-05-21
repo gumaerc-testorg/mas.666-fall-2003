@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/mas-666-developmental-entrepreneurship-fall-2003/7d5526e03b4e6eb9a5f30144a947fd68_kenya.pdf
+file: /courses/mas-666-developmental-entrepreneurship-fall-2003/7d5526e03b4e6eb9a5f30144a947fd68_kenya.pdf
 file_size: 130261
 file_type: application/pdf
 learning_resource_types:
