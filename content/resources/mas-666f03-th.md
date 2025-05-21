@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/mas-666-developmental-entrepreneurship-fall-2003/b030f4e0039f4a3249c406089325d254_mas-666f03-th.jpg
+file: /courses/mas-666-developmental-entrepreneurship-fall-2003/b030f4e0039f4a3249c406089325d254_mas-666f03-th.jpg
 file_size: 6913
 file_type: image/jpeg
 image_metadata:
